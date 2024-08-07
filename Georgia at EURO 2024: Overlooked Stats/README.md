@@ -30,3 +30,16 @@ The captain & center back Guram Kashia led the team in the combined number of ta
 Georgia was the team that tackled the most far back.
 The average tackle occurred at around 22 yards from the goal, very close to the penalty area. 
 
+## Passing
+![pass_fig1](https://github.com/user-attachments/assets/67b7069a-11c8-4653-8383-d39b32ecbbbb)
+The two starting forwards made the most key passes.
+This means they were often dependent on each other for assisting with the final push.
+
+---
+
+![pass_fig2](https://github.com/user-attachments/assets/3e2971f9-64bd-43ac-86d9-ad16d3811cda)
+The goalkeeper and defenders lead in progressive passing which would be expected considering the team’s style.
+
+However, the midfielder Giorgi Kochorashvili had the highest number among all outfield players, highlighting his crucial role in distributing the ball forward. 
+
+
