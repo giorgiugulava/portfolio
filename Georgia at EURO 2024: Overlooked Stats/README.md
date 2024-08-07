@@ -1,5 +1,5 @@
 
-`# ![image](https://github.com/user-attachments/assets/6391933c-f693-4bcc-b18c-6bf53459397e)`
+#                               ![image](https://github.com/user-attachments/assets/6391933c-f693-4bcc-b18c-6bf53459397e)
 After the Georgian national football team's memorable performance at their debut European Championship, I analyzed the data published by FBref.com - a popular sports statistics website - with the goal of identifying interesting patterns in the team's playing style and individual displays that could have been overlooked by viewers.
 
 The result is the following set of assessments of metrics in the areas of goalkeeping, defending, passing and shooting.
