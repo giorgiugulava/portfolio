@@ -4,7 +4,7 @@ After the Georgian national football team's memorable performance at their debut
 
 The result is the following set of assessments of metrics in the areas of goalkeeping, defending, passing and shooting.
 
-Original code: Georgia at EURO 2024: Overlooked Stats/georgia_at_euro_2024.ipynb
+[Original code with interactive charts.](https://github.com/giorgiugulava/portfolio/blob/main/Georgia%20at%20EURO%202024%3A%20Overlooked%20Stats/georgia_at_euro_2024.ipynb)
 
 ## Goalkeeping
 ![image](https://github.com/user-attachments/assets/f79fa08c-43fc-4c02-9728-76283486c041)
