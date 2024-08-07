@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/2bc20385-4f11-4d74-930a-79546f627641)
 # at
 
 ## Goalkeeping
@@ -42,4 +42,32 @@ The goalkeeper and defenders lead in progressive passing which would be expected
 
 However, the midfielder Giorgi Kochorashvili had the highest number among all outfield players, highlighting his crucial role in distributing the ball forward. 
 
+---
+
+![pass_fig3](https://github.com/user-attachments/assets/c817f16f-6b95-48d1-b7e9-f5f35a68edd9)
+Short and medium-length passes were attempted much more often than long ones.
+The team struggled to complete most of its long pass attempts.
+
+---
+
+![pass_fig4](https://github.com/user-attachments/assets/c9ed21f3-f22f-4dc3-b890-c4f9549d2c61)
+Georgia was among the top 5 teams in terms of the share of progressive passes.
+
+For most teams with a similar result, this meant covering less ground in total with passes.
+
+## Shooting
+![image](https://github.com/user-attachments/assets/d92808a7-2af5-48bb-8db3-bcdbce883793)
+Both Georgian goalscorers scored as many or more times than indicated by their xG.
+Georges Mikautadze found the net 3 times while having an xG of 2.3, while Khvicha Kvaratskhelia scored once, just about the same as his xG. 
+
+---
+
+![image](https://github.com/user-attachments/assets/0e97aff8-ed1a-45b7-a3ac-1fd72fd30a1a)
+It took Kvaratskhelia 5 shots to accumulate his 1 xG, while Mikautadze, taking into account the 2 penalty kicks, needed 4 shots for 2.3 xG.
+
+---
+
+![image](https://github.com/user-attachments/assets/d99cc15e-980f-48a4-ba5a-a30e132d91b0)
+Georgia’s shots came from just outside of the penalty area, a more or less average result. 
+There seems to be no significant correlation between the teams who mostly shot from up close and the teams that scored the most (highest-scoring teams shown from highest to lowest).
 
