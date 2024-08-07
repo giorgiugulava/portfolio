@@ -4,6 +4,8 @@ After the Georgian national football team's memorable performance at their debut
 
 The result is the following set of assessments of metrics in the areas of goalkeeping, defending, passing and shooting.
 
+Original code: Georgia at EURO 2024: Overlooked Stats/georgia_at_euro_2024.ipynb
+
 ## Goalkeeping
 ![image](https://github.com/user-attachments/assets/f79fa08c-43fc-4c02-9728-76283486c041)
 Georgia’s Giorgi Mamardashvili was the most effective shot-stopper of the tournament, conceding 4.1 less goals than expected.
